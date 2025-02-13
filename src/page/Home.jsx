@@ -59,7 +59,7 @@ function Home() {
             </div>
        </div>
       
-        <h1>WTF, this countdown is taking its sweet-ass time, but the surprise will be worth the fucking wait!" ⏳❄️🔥</h1>
+        <h3>WTF, this countdown is taking its sweet-ass time, but the surprise will be worth the fucking wait!" ⏳❄️🔥</h3>
         <div className="countdown">
             <span>{timeLeft.days}d</span>
             <span>{timeLeft.hours}h</span>

@@ -8,6 +8,7 @@
     align-items: center;
     background: linear-gradient(to right, #202020, #4b4948); /* Gradient */
     color: white; /* White text for better contrast */
+    padding: 0 30px;
   }
   
   h1 {
